@@ -1,1 +1,2 @@
 # BraessParadox
+Braess's paradox show that adding a path in a road oriented graph to improve traffic flow can, in some case, slow down traffic and has the reverse effect. This phenomenon can be treated by game theory because the choice of each vehicle to minimize their time travel is not every time the best choice. This choice is named « Nash equilibrium ». I code a computer program able to return a Nash equilibrium to apply it in the case of the city of Cherbourg-en-Cotentin. I pointed out the paradox.
