@@ -201,5 +201,6 @@ def tempsreel(a,b):
 # print(scipy.sparse.csgraph.floyd_warshall(matriceAdjacence(G1)))
 # print(scipy.sparse.csgraph.shortest_path(matriceAdjacence(G1)))
 # print(scipy.sparse.csgraph.dijkstra(matriceAdjacence(G1)))
+#nouveau commit
 
 tempsreel(1,17)
